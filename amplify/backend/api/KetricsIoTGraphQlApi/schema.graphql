@@ -1,0 +1,12 @@
+type Todo @model {
+    id: ID!
+    name: String
+    description: String
+    priority: Int
+    status: TodoStatus
+}
+
+enum TodoStatus {
+     done
+     pending
+ }

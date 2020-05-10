@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "ketrics-iot-app-dev-20200509203326-authRole",
+            "UnauthRoleArn": "arn:aws:iam::109908490348:role/ketrics-iot-app-dev-20200509203326-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::109908490348:role/ketrics-iot-app-dev-20200509203326-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "ketrics-iot-app-dev-20200509203326-deployment",
+            "UnauthRoleName": "ketrics-iot-app-dev-20200509203326-unauthRole",
+            "StackName": "ketrics-iot-app-dev-20200509203326",
+            "StackId": "arn:aws:cloudformation:us-east-1:109908490348:stack/ketrics-iot-app-dev-20200509203326/7cb5d590-924d-11ea-84fb-125f4521752f"
+        }
+    }
+}
